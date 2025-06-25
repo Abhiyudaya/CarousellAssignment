@@ -100,13 +100,6 @@ CarousellAssignment/
 
 ---
 
-## 📬 Submission Instructions
-
-- Archive this project (`.zip` or `.tar.gz`)
-- Email to Carousell team with subject: **YourName (Android Coding Challenge)**
-
----
-
 ## 👨‍💻 Author
 
 Abhiyudaya Vatsa  
